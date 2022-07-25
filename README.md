@@ -24,6 +24,10 @@ bcddd36352a
 fghhhh456
 fgyyyz378
 ```
+
+## Отсортированный текстовый файл
+![alt text](https://github.com/MAGistR-bit/Custis/blob/main/Images/SortFile.png) 
+
 ## Проверка задания
 Задание будет проверяться на Java 11 с параметрами JVM `-Xmx512` и `-Xmx1g`, если только вы не укажете другие параметры.
 
